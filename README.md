@@ -3,7 +3,8 @@
 ```sh
    go run .
 ```
-Your task is to implement a novel data structure - your project lead is calling it a power of two max heap. The rest of your team is doing their best to come up with a better name. The requirements of the data structure are as follows:
+### Task is to implement a novel data structure - project called as a power of two max heap. 
+The requirements of the data structure are as follows:
 - The heap must satisfy the heap property.
 - Every parent node in the heap must have 2^x children.
 - The value of x must be a parameter of the heap’s constructor.
