@@ -1,7 +1,7 @@
 ## HEAP IMPLEMENTATION WITH 2^N CHILD 👶
 
 ```sh
-   go run .
+   go run main.go
 ```
 ### Task is to implement a novel data structure - project called as a power of two max heap. 
 The requirements of the data structure are as follows:
